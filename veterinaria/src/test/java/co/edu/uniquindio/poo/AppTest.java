@@ -27,6 +27,13 @@ public class AppTest {
         LOG.info("Finalizando test shouldAnswerWithTrue");
     }
 
+    
+    /*
+     * fkjgjrgverggnrfknfwkef
+     */
+    public void datosVacio(){
+        LOG.info("Iniciado test ");
+    }
     /*
      * fkjgjrgverggnrfknfwkef
      */
