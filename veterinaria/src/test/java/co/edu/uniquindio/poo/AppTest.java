@@ -23,21 +23,7 @@ public class AppTest {
     @Test
     public void shouldAnswerWithTrue() {
         LOG.info("Iniciado test shouldAnswerWithTrue");
-        assertTrue(true):
+        assertTrue(true);
         LOG.info("Finalizando test shouldAnswerWithTrue");
-    }
-
-    
-    /*
-     * fkjgjrgverggnrfknfwkef
-     */
-    public void datosVacio(){
-        LOG.info("Iniciado test ");
-    }
-    /*
-     * fkjgjrgverggnrfknfwkef
-     */
-    public void datosNulos(){
-        LOG.info("Iniciado test ");
     }
 }
